@@ -9,6 +9,7 @@
     "noEmitHelpers": true,
     "skipDefaultLibCheck": true,
     "pretty": true,
+    "outDir": "./out",
     "sourceMap": true,
     "strictNullChecks": false,
     "typeRoots": [
